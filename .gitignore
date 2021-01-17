@@ -1,2 +1,4 @@
 TIL.iml
-.idea
+.idea/
+*.xml
+*.iml
